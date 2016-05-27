@@ -30,6 +30,9 @@ html {-webkit-text-size-adjust: none; }
 	width:140px;
 	padding-left:10px;
 }
+#logo-circle{
+		width:60px;
+	}
 
 .logo-wrap img{
 	
