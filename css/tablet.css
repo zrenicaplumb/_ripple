@@ -1,0 +1,202 @@
+@media screen and (min-width: 600px){
+
+	.logo-wrap{
+		margin-bottom:60px;
+	}
+
+
+
+	#logo-text{
+		width:160px;
+		padding-left:10px;
+	}
+
+	#logo-circle{
+		width:60px;
+	}
+
+	.experience-div p{
+	max-width:60%;
+	margin:auto;
+	line-height: 1.4em;
+	color:gray;
+	font-size: 1.2em;
+	}
+
+	.experience-div{
+		padding-top:85px;
+		padding-bottom:75px;
+	}
+
+	.experience-div strong{
+		display:inline;
+	}
+
+	.inner-blue-div{
+		
+		
+		
+		float:right;
+		
+		width:50%;
+		
+	}
+
+	.inner-blue-div #p1{
+	letter-spacing: 2px;
+	text-align: center;
+	color:#fff;
+	font-size:2em;
+	margin-top:80px;
+}
+
+	#phone-img{
+		
+		width:50%;
+		
+		
+		
+	}
+
+	
+
+	.blue-wrap-inner{
+		width:85%;
+		margin:auto;
+		
+	}
+
+	.green-div img{
+		float:right;
+		margin:40px 40px 20px 30px;
+
+	}
+	.green-div.clearfix{
+		padding: 50px;
+    	padding-bottom: 60px;
+	}
+
+	
+
+	.green-inner-text{
+		padding-top:180px;
+
+		
+	}
+
+	#tablet-h4{
+		font-size: 2.3em;
+		margin-bottom:20px;
+	}
+
+	.green-inner-text p{
+		font-size: 1.2em;
+
+	}
+
+	
+
+	
+
+	.green-div h2{
+		display:none;
+	}
+
+	.bottom-div{
+		
+		padding-top:100px;
+	}
+	.bottom-div img{
+	
+	padding-top:50px;
+	padding-bottom:35px;
+
+	}	
+	.bottom-div p{
+		max-width:none;
+	}
+
+	.bottom-inner{
+		
+		max-width:1100px;
+		margin:auto;
+		clear:both;
+	}
+
+	
+
+	.bottom-inner p{
+		
+		font-size: 1.2em;
+	}
+
+	.bottom-inner .img-wrap{
+		
+		float:left;
+		width:30%;
+		margin-left:10%;
+	}
+
+	.bottom-inner .text-wrap{
+		
+		float:left;
+		width:40%;
+		
+		margin-top:70px;
+		margin-right:10%;
+		text-align: left;
+	}
+
+	.bottom-div form input{
+		
+		margin-top:0;
+	}
+
+	
+	
+	.yo{
+		clear:both;
+		margin-top:40px;
+	}
+	footer{
+	background-color: #3B4042;
+	padding:50px;
+
+
+	}
+	footer.row.clearfix{
+	display: block;
+}
+	footer img{
+		width:50px;
+	}
+	.blah{
+	margin: 2% auto;
+	margin-top:0;
+	
+	
+	
+	}	
+	#logo-circle-footer{
+		width:40px;
+		margin-bottom:10px;
+	}
+	#logo-text-footer{
+		width:80px;
+		padding:0;
+		margin-bottom:10px;
+	}
+	.footer-box h2{
+		font-size:1.2em;
+		margin-bottom:10px;
+		margin-top:10px;
+	}
+	.footer-box{
+		padding:16px;
+		float:left;
+		width:33.33333%;
+		text-align: center;
+	}
+	
+
+}

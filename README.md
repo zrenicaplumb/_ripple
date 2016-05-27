@@ -1,2 +1,2 @@
-# _ripple
-ripple app site
+# ripple
+ripple site
